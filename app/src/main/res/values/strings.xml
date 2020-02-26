@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">PraAssessment1</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="persegi_panjang">Persegi Panjang</string>
+    <string name="segitiga">Segitiga</string>
+    <string name="about">About</string>
+    <string name="aufa_aninditya_ramadhan">Aufa Aninditya Ramadhan</string>
+    <string name="_6706184131">6706184131</string>
+    <string name="d3rpla_42_04">D3RPLA 42 04</string>
+    <string name="masukkan_panjang">Masukkan Panjang</string>
+    <string name="masukkan_lebar">Masukkan Lebar</string>
+    <string name="hitung">hitung</string>
+    <string name="luas">Luas</string>
+    <string name="keliling">Keliling</string>
+    <string name="_0">0</string>
+    <string name="share">share</string>
+    <string name="share_PP">Persegi Panjang dengan Panjang %1$d dan Lebar %2$d menghasilkan Luas %3$d dan Keliling %4$d</string>
+    <string name="share_S">Segitiga dengan Alas %1$d , Tinggi %2$d, dan Sisi Miring, %3$d Mengasilkan Luas %4$d dan Keliling %5$d</string>
+    <string name="masukkan_alas">Masukkan Alas</string>
+</resources>
